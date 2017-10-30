@@ -30,18 +30,18 @@
 
 .full {
   float: left;
-  width: 66.33%;
+  width: 65.33%;
   margin: 1% 1% 1% 0;
 }
 
 .small {
   float: left;
-  width: 31.66%;
+  width: 32.66%;
   margin: 1% 0% 1% 1%;
 }
 
 section.smaller {
-  width: 31.66%;
+  width: 32.66%;
   margin: 1% 0;
 }
 
