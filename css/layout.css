@@ -37,7 +37,7 @@
 .small {
   float: left;
   width: 32.33%;
-  margin: 1% 0 0 0;
+  margin: 1% 0% 1% 1%;
 }
 
 section.smaller {
@@ -52,6 +52,3 @@ section.smaller {
   margin: 1% 1% 2% 1%;
 }
 
-.milk_text {
-  margin-left: 1%;
-}
