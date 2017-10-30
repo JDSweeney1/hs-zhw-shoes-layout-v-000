@@ -31,9 +31,11 @@
 .full {
   float: left;
   width: 66%;
+  margin: 2%;
 }
 
 .small {
   float: left;
   width: 32%;
+  margin: 2%;
 }
