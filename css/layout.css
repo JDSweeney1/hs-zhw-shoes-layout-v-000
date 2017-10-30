@@ -38,24 +38,10 @@
   width: 32%;
 }
 
-section.smaller {
-  width: 32%;
-  margin: 1% 0;
-}
-
-section.smallest {
-  width: 32%;
-  margin: 1% 0;
-}
-
-#details .smaller {
-  margin: 0 1% 0 0;
+[class*="col-"] {
+  margin-left: 2%;
 }
 
 .top {
   margin-bottom: 2%;
 }
-
- section.middle {
-   margin: 1% 2%;
- }
