@@ -47,3 +47,7 @@ section.smaller {
 #details .smaller {
   margin: 0 1% 0 0;
 }
+
+.top {
+  margin: 1;
+}
