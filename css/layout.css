@@ -42,6 +42,7 @@
 
 section.smaller {
   width: 32.66%;
+  margin: 0;
 }
 
 #details .smaller {
