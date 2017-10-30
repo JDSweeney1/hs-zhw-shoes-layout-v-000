@@ -31,7 +31,6 @@
 .full {
   float: left;
   width: 65.66%;
-  margin: 1% 1% 1% 0;
 }
 
 .small {
@@ -51,4 +50,3 @@ section.smaller {
 .top {
   margin: 1% 1% 2% 1%;
 }
-
