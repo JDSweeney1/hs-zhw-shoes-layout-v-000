@@ -30,5 +30,6 @@
 }
 
 .small {
+  float: left;
   width: 32%;
 }
