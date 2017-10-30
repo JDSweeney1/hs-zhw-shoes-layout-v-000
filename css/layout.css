@@ -45,6 +45,11 @@ section.smaller {
   margin: 1% 0;
 }
 
+section.smallest {
+  width: 32.1665%;
+  margin: 1% 0;
+}
+
 #details .smaller {
   margin: 0 1% 0 0;
 }
