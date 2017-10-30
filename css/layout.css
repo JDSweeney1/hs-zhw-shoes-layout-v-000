@@ -24,4 +24,11 @@
 
 /* Posititoning Classes */
 
+.full {
+  float: left;
+  width: 66%;
+}
 
+.small {
+  width: 32%;
+}
