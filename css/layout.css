@@ -43,3 +43,7 @@
 section.smaller {
   width: 31%;
 }
+
+#details .smaller {
+  margin: 0;
+}
